@@ -11,7 +11,7 @@
 
 // Wi-Fi credentials
 const char* ssid = "Zeeshan";        // Wi-Fi SSID
-const char* password = "lab112233";       // Wi-Fi password
+const char* password = "123";       // Wi-Fi password
 
 
 const char* host = "script.google.com";
